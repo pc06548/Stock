@@ -1,0 +1,1 @@
+GET     /sync-bse                                                   endpoints.PullData.getDataByDate(from: String, to: String)
